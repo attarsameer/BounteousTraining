@@ -92,7 +92,7 @@ public class CollectionExp1{
 public static void main(String[] args){
 ProductManager pm=new ProductManager();
 pm.addProduct(new Product(101,"Laptop","Electronics",999.99));
-pm.addProduct(new Product(102,"Shampoo","Toiletries",5.49));
+pm.addProduct(new Product(102,"Groceries","Household",5.49));
 pm.addProduct(new Product(103,"Notebook","Stationery",1.99));
 for(Product p:pm.getAllProductsSortedById())System.out.println(p);
 System.out.println("---");
