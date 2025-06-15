@@ -1,8 +1,5 @@
 package JavaStreams;
 
-// public class Problem3 {
-    
-// }
 
 
 
